@@ -6,7 +6,7 @@ idna==2.6
 itsdangerous==0.24
 Jinja2==2.9.6
 MarkupSafe==1.0
-py==1.4.34
+py==1.10.0
 pytest==3.2.3
 pytest-runner==2.12.1
 requests==2.18.4
